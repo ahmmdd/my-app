@@ -1,7 +1,14 @@
 
-import { queryPost } from '../../../lib/queries';
 import { PUBLIC_BASE_URL } from '$env/static/public';
 
+const queryPost = `
+  query getPost($slug: ID!) {
+    post(id: $slug, idType: SLUG) {
+      title
+      content
+    }
+  }
+`;
 async (req) => {
   const { slug } = req.params
   try {

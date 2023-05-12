@@ -1,6 +1,6 @@
 <script>
   export let data;
-  let { posts } = data[];
+  let { posts } = data;
 </script>
 
 <h1>Blog Postma</h1>

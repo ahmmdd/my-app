@@ -1,6 +1,16 @@
-import { queryPosts } from '$lib/queries';
 import { PUBLIC_BASE_URL } from '$env/static/public';
-
+const queryPosts = `
+  query Posts {
+    posts {
+      nodes {
+        id
+        title
+        excerpt
+        }
+      }
+    }
+  }
+`;
 async () => {
   try {
     const res = await fetch(PUBLIC_BASE_URL, {
