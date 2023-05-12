@@ -23,15 +23,14 @@ export async function load({fetch}) {
       },
       body: JSON.stringify({ query }),
     });
-    console.log("test1");
+    // console.log("test1");
     const resObj = await res.json()
     console.log(resObj.toString());
     const posts = resObj.data.posts.nodes
     console.log(posts);
 
     return {
-      status: 200,
-      body: { posts },
+        posts,
     }
   } catch (e) {
     if (e instanceof Error) {

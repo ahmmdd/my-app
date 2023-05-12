@@ -1,5 +1,4 @@
 <script>
-
   export let posts=[];
 </script>
 
@@ -8,7 +7,7 @@
   <li><a href="/">Back</a></li>
 </ul>
 
-{#each posts as post}
+<!-- {#each posts as post}
   <script>
     console.log(post.uri);
   </script>
@@ -17,10 +16,10 @@
     <h2>{post.title}</h2>
   </a>
   {@html post.excerpt}
-{/each}
+{/each} -->
 
-<!-- {#each posts as post, i}
-	<li><a href="{`/blog${post.url}`}">
+{#each posts as post, i}
+	<li><a href="{`/blog/${post.url}`}">
 		{i + 1}: {post.title}
 	</a></li>
-{/each} -->
+{/each}
