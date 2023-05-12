@@ -3,7 +3,7 @@
   export let posts=[];
 </script>
 
-<h1>Blog Postma</h1>
+<h1>POC BLOGS</h1>
 <ul>
   <li><a href="/">Back</a></li>
 </ul>
