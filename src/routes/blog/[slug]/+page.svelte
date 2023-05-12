@@ -1,6 +1,5 @@
 <script>
-    export let data;
-    let { post } = data;
+    export let post;
 </script>
   
 <h1>{post.title}</h1>

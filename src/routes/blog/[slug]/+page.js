@@ -12,7 +12,7 @@ const queryPost = `
 async (req) => {
   const { slug } = req.params
   try {
-    const res = await fetch(PUBLIC_BASE_URL, {
+    const res = await fetch("http://poclynworks.local/graphql", {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

@@ -1,27 +1,33 @@
 import { PUBLIC_BASE_URL } from '$env/static/public';
-const queryPosts = `
+const query = `
   query Posts {
     posts {
       nodes {
-        id
         title
+        date
         excerpt
-        }
+        uri
+        postId
+        id
       }
     }
   }
 `;
-async () => {
+// console.log(queryPosts.toString());
+export async function load({fetch}) {
   try {
-    const res = await fetch(PUBLIC_BASE_URL, {
+    const res = await fetch("http://poclynworks.local/graphql", {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({ query: queryPosts }),
-    })
+      body: JSON.stringify({ query }),
+    });
+    console.log("test1");
     const resObj = await res.json()
+    console.log(resObj.toString());
     const posts = resObj.data.posts.nodes
+    console.log(posts);
 
     return {
       status: 200,
