@@ -1,5 +1,5 @@
 
-// import { PUBLIC_BASE_URL } from '$env/static/public';
+import { PUBLIC_BASE_URL } from '$env/static/public';
 
 const queryPost = `
   query getPost($slug: ID!) {
@@ -12,7 +12,7 @@ const queryPost = `
 async (req) => {
   const { slug } = req.params
   try {
-    const res = await fetch("http://poclynworks.local/graphql", {
+    const res = await fetch(PUBLIC_BASE_URL, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

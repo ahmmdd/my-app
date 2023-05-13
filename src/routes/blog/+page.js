@@ -16,7 +16,7 @@ const query = `
 // console.log(queryPosts.toString());
 export async function load({fetch}) {
   try {
-    const res = await fetch("http://poclynworks.local/graphql", {
+    const res = await fetch(PUBLIC_BASE_URL, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
