@@ -1,5 +1,5 @@
 
-import { PUBLIC_BASE_URL } from '$env/static/public';
+// import { PUBLIC_BASE_URL } from '$env/static/public';
 
 const queryPost = `
   query getPost($slug: ID!) {
