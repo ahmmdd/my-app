@@ -11,6 +11,6 @@
   <a href="{`/blog${post.uri}`}">
     <h2>{post.title}</h2>
   </a>
-  <!-- {@html post.excerpt} -->
+  {@html post.excerpt}
 {/each}
 </div>

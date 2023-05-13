@@ -11,6 +11,7 @@ const queryPost = `
 `;
 async (req) => {
   const { slug } = req.params
+  console.log(req.params);
   try {
     const res = await fetch(PUBLIC_BASE_URL, {
       method: 'POST',

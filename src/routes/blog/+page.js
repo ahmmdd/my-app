@@ -25,9 +25,9 @@ export async function load({fetch}) {
     });
     // console.log("test1");
     const resObj = await res.json()
-    console.log(resObj.toString());
+    // console.log(resObj.toString());
     const posts = resObj.data.posts.nodes
-    console.log(posts);
+    // console.log(posts);
 
     return {
         posts,
