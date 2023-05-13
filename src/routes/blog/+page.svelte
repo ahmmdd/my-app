@@ -8,7 +8,7 @@
 </ul>
 <div>
 {#each data.posts as post}
-  <a href="{`/blog${post.uri}`}">
+  <a href="{`/blog/${post.title}`}">
     <h2>{post.title}</h2>
   </a>
   {@html post.excerpt}
