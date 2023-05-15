@@ -8,9 +8,11 @@
 </ul>
 <div>
 {#each data.posts as post}
-  <a href="{`/blog/${post.title}`}">
+  <a href="{`/blog/${post.slug}`}">
     <h2>{post.title}</h2>
   </a>
-  {@html post.excerpt}
+  <p>{post.title}</p>
+  
+  <!-- {@html post.excerpt} -->
 {/each}
 </div>

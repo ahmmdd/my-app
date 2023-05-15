@@ -8,6 +8,7 @@ const query = `
         excerpt
         uri
         postId
+        slug
         id
       }
     }

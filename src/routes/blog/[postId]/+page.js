@@ -1,25 +1,33 @@
 
-// import { PUBLIC_BASE_URL } from '$env/static/public';
-// https://www.youtube.com/watch?v=gNgQFF-tmuo&ab_channel=Huntabyte
-// const queryPost = `
-//   query getPost($slug: ID!) {
-//     post(id: $slug, idType: SLUG) {
-//       title
-//       content
-//     }
-//   }
-// `;
-export const load = ({ fetch, params}) => {
-  console.log(params)
+import { PUBLIC_BASE_URL } from '$env/static/public';
 
-  const fetchPost = async (title) => {
-    const res = await fetch(title)
-    const data = await res.json()
-    return data
-  }
+export const load = async({ fetch, params}) => {
+  console.log('params.postId: ',params.postId)
+  const query = `
+    query Post {
+      post(
+        id: "${params.postId}"
+        idType: SLUG
+      ) {
+        title
+        content
+      }
+    }
+    `;
+    // console.log("1. QUERY: ", query);
+  const res = await fetch(PUBLIC_BASE_URL, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({ query }),
+  });
+  // console.log("2. RES: ", res);
+  const resObj = await res.json();
+  // console.log("3. RES_OBJ: ",resObj);
+  const post = resObj.data.post;
+  // console.log("4. post: ", post);
 
-  return {
-    post: fetchPost(params.title)
-  }
+  return { post: post }
 
 }
