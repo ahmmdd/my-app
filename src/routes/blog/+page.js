@@ -1,7 +1,7 @@
 import { PUBLIC_BASE_URL } from '$env/static/public';
 const query = `
   query Posts {
-    posts {
+    posts(first:4) {
       nodes {
         title
         date
@@ -10,6 +10,13 @@ const query = `
         postId
         slug
         id
+        featuredImage {
+          node {
+            altText
+            sourceUrl
+            id
+          }
+        }
       }
     }
   }

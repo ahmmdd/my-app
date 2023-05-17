@@ -2,7 +2,7 @@
 import { PUBLIC_BASE_URL } from '$env/static/public';
 
 export const load = async({ fetch, params}) => {
-  console.log('params.postId: ',params.postId)
+  // console.log('params.postId: ',params.postId)
   const query = `
     query Post {
       post(
