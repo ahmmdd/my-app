@@ -8,7 +8,7 @@
         <div class="banner_text-wrapper">
           <p class="banner_text text-color-white">Get the inside scoop from 17 leading marketplaces at our 3-day virtual event, Meet the Marketplace.</p>
         </div>
-        <a href="http://www.linnworks.com/meet-the-marketplace-2023" target="_blank" class="banner_button is-orange-button w-button">Watch on demand</a>
+        <a href="#" class="banner_button is-orange-button w-button">Watch on demand</a>
       </div>
     </div>
   </div>
@@ -102,12 +102,12 @@
                     <div role="list" class="collection-list-3 w-dyn-items">
                       <div role="listitem" class="collection-item-3 w-dyn-item">
                         <div class="dropdown_spotlight-card">
-                          <a href="http://www.linnworks.com/meet-the-marketplace-2023" class="dropdown_spotlight-image-wrapper w-inline-block" tabindex="0">
+                          <a href="#" class="dropdown_spotlight-image-wrapper w-inline-block" tabindex="0">
                             <img src="https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight.jpg" loading="lazy" alt="Product Spotlight" sizes="100vw" srcset="https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight-p-500.jpg 500w, https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight.jpg 800w" class="dropdown_spotlight-image">
                           </a>
                           <div class="resource-card_text-wrapper spotlight">
                             <div class="resource-card_category spotlight">Spotlight</div>
-                            <a href="http://www.linnworks.com/meet-the-marketplace-2023" class="resource-card_title spotlight" tabindex="0">Get expert insights from 17 leading marketplaces. Watch on demand.</a>
+                            <a href="#" class="resource-card_title spotlight" tabindex="0">Get expert insights from 17 leading marketplaces. Watch on demand.</a>
                           </div>
                         </div>
                       </div>
@@ -229,7 +229,7 @@
 
                         <div class="dropdown_spotlight-card">
 
-                          <a href="http://www.linnworks.com/meet-the-marketplace-2023" class="dropdown_spotlight-image-wrapper w-inline-block" tabindex="0">
+                          <a href="#" class="dropdown_spotlight-image-wrapper w-inline-block" tabindex="0">
 
                             <img src="https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight.jpg" loading="lazy" alt="Integrations Spotlight" sizes="100vw" srcset="https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight-p-500.jpg 500w, https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight.jpg 800w" class="dropdown_spotlight-image">
 
@@ -239,7 +239,7 @@
 
                             <div class="resource-card_category spotlight">Spotlight</div>
 
-                            <a href="http://www.linnworks.com/meet-the-marketplace-2023" class="resource-card_title spotlight" tabindex="0">Get expert insights from 17 leading marketplaces. Watch on demand.</a>
+                            <a href="#" class="resource-card_title spotlight" tabindex="0">Get expert insights from 17 leading marketplaces. Watch on demand.</a>
 
                           </div>
 
@@ -341,7 +341,7 @@
 
                         <div class="dropdown_spotlight-card">
 
-                          <a href="http://www.linnworks.com/meet-the-marketplace-2023" class="dropdown_spotlight-image-wrapper w-inline-block" tabindex="0">
+                          <a href="#" class="dropdown_spotlight-image-wrapper w-inline-block" tabindex="0">
 
                             <img src="https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight.jpg" loading="lazy" alt="Partners Spotlight" sizes="100vw" srcset="https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight-p-500.jpg 500w, https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight.jpg 800w" class="dropdown_spotlight-image">
 
@@ -351,7 +351,7 @@
 
                             <div class="resource-card_category spotlight">Spotlight</div>
 
-                            <a href="http://www.linnworks.com/meet-the-marketplace-2023" class="resource-card_title spotlight" tabindex="0">Get expert insights from 17 leading marketplaces. Watch on demand.</a>
+                            <a href="#" class="resource-card_title spotlight" tabindex="0">Get expert insights from 17 leading marketplaces. Watch on demand.</a>
 
                           </div>
 
@@ -561,7 +561,7 @@
 
                         <div class="dropdown_spotlight-card">
 
-                          <a href="http://www.linnworks.com/meet-the-marketplace-2023" class="dropdown_spotlight-image-wrapper w-inline-block" tabindex="0">
+                          <a href="#" class="dropdown_spotlight-image-wrapper w-inline-block" tabindex="0">
 
                             <img src="https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight.jpg" loading="lazy" alt="Support Spotlight" sizes="100vw" srcset="https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight-p-500.jpg 500w, https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight.jpg 800w" class="dropdown_spotlight-image">
 
@@ -571,7 +571,7 @@
 
                             <div class="resource-card_category spotlight">Spotlight</div>
 
-                            <a href="http://www.linnworks.com/meet-the-marketplace-2023" class="resource-card_title spotlight" tabindex="0">Get expert insights from 17 leading marketplaces. Watch on demand.</a>
+                            <a href="#" class="resource-card_title spotlight" tabindex="0">Get expert insights from 17 leading marketplaces. Watch on demand.</a>
 
                           </div>
 
@@ -741,7 +741,7 @@
 
                         <div class="dropdown_spotlight-card">
 
-                          <a href="http://www.linnworks.com/meet-the-marketplace-2023" class="dropdown_spotlight-image-wrapper w-inline-block" tabindex="0">
+                          <a href="#" class="dropdown_spotlight-image-wrapper w-inline-block" tabindex="0">
 
                             <img height="154" loading="eager" width="300" src="https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight.jpg" alt="Resources Spotlight" sizes="100vw" srcset="https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight-p-500.jpg 500w, https://assets-global.website-files.com/600fe6e1ff56087409a9f096/64597678fc63900b493cffa0_Meet-the-Marketplace-23-spotlight.jpg 800w" class="dropdown_spotlight-image">
 
@@ -751,7 +751,7 @@
 
                             <div class="resource-card_category spotlight">Spotlight</div>
 
-                            <a href="http://www.linnworks.com/meet-the-marketplace-2023" class="resource-card_title spotlight" tabindex="0">Get expert insights from 17 leading marketplaces. Watch on demand.</a>
+                            <a href="#" class="resource-card_title spotlight" tabindex="0">Get expert insights from 17 leading marketplaces. Watch on demand.</a>
                           </div>
                         </div>
                       </div>
@@ -852,31 +852,31 @@
 <div class="padding-bottom padding-large">
 </div>
 <div class="w-layout-grid resource-hub-header_button_group">
-<a href="https://www.linnworks.com/topics/inventory-management" class="button is-button-small w-inline-block">
+<a href="#" class="button is-button-small w-inline-block">
 <div class="text-block">Inventory Management</div>
 </a>
-<a href="https://www.linnworks.com/topics/order-management" class="button is-button-small w-inline-block">
+<a href="#" class="button is-button-small w-inline-block">
 <div class="text-block">Order Management</div>
 </a>
-<a href="https://www.linnworks.com/topics/warehouse-management-systems" class="button is-button-small w-inline-block">
+<a href="#" class="button is-button-small w-inline-block">
 <div class="text-block">Warehouse Management</div>
 </a>
-<a href="https://www.linnworks.com/topics/product-sourcing" class="button is-button-small w-inline-block">
+<a href="#" class="button is-button-small w-inline-block">
 <div class="text-block">Supply Chain Management</div>
 </a>
-<a href="https://www.linnworks.com/topics/shipping-fulfillment" class="button is-button-small w-inline-block">
+<a href="#" class="button is-button-small w-inline-block">
 <div class="text-block">Shipping &amp; Fulfillment</div>
 </a>
-<a href="https://www.linnworks.com/topics/walmart-sellers" class="button is-button-small w-inline-block">
+<a href="#" class="button is-button-small w-inline-block">
 <div class="text-block">Walmart Marketplace</div>
 </a>
-<a href="https://www.linnworks.com/topics/marketplaces" class="button is-button-small w-inline-block">
+<a href="#" class="button is-button-small w-inline-block">
 <div class="text-block">Marketplaces</div>
 </a>
-<a href="https://www.linnworks.com/topics/listings" class="button is-button-small w-inline-block">
+<a href="#" class="button is-button-small w-inline-block">
 <div class="text-block">Multichannel Listings</div>
 </a>
-<a href="https://www.linnworks.com/topics/customer-data" class="button is-button-small w-inline-block">
+<a href="#" class="button is-button-small w-inline-block">
 <div class="text-block">Data &amp; Insights</div>
 </a>
 <a href="#" class="button is-button-small is-orange-button w-inline-block">
