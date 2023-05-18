@@ -924,7 +924,7 @@
         <img src="https://assets-global.website-files.com/600fe6e1ff56080deca9f06e/6038d555d49e8f5d8191c152_Order-Management--Email-updates.svg" loading="lazy" alt="Order management email updates icon." class="subscribe-feature-icon--inline">
       </div>
       <div class="w-embed w-iframe">
-        <iframe src="#" width="100%" height="290" type="text/html" frameborder="0" allowtransparency="true" style="border: 0"></iframe>
+        <iframe src="https://www2.linnworks.com/l/886293/2021-04-14/435k2" width="100%" height="290" type="text/html" frameborder="0" allowtransparency="true" style="border: 0"></iframe>
       </div>
     </div>
   </div>
