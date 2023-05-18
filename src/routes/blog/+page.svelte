@@ -943,7 +943,8 @@
             <img src="https://assets-global.website-files.com/600fe6e1ff56080deca9f06e/602ce494d8f11aa3540c0473_linnworks-blog-placeholder.jpg" loading="lazy" alt="Linnworks logo in a circle." class="w-condition-invisible">
             <div class="resource-card_text-wrapper _4-up">
               <a href="{post.uri}" class="resource-card_title">{post.title}</a>
-              <a href="{post.categories.nodes.uri}" class="resource-card_category">{post.categories.nodes.name}</a>
+              <!-- <p>{post.categories.nodes.name}</p> -->
+              <!-- <a href="{post.categories.nodes.uri}" class="resource-card_category">{post.categories.nodes.name}</a> -->
             </div>
         </div>
       </div>
