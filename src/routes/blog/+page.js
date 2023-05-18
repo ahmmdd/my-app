@@ -1,7 +1,7 @@
 import { PUBLIC_BASE_URL } from '$env/static/public';
 const query = `
   query Posts {
-    posts(first:4) {
+    posts {
       nodes {
         title
         date
@@ -12,15 +12,20 @@ const query = `
         id
         featuredImage {
           node {
-            altText
-            sourceUrl
-            id
+            mediaItemUrl
+          }
+        }
+        categories {
+          nodes {
+            name
+            uri
           }
         }
       }
     }
   }
 `;
+// featuredImage.node.mediaItemUrl
 export async function load({fetch}) {
   try {
     const res = await fetch(PUBLIC_BASE_URL, {
