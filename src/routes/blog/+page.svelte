@@ -421,7 +421,7 @@
 
                   </a>
 
-                  <a href="https://help.linnworks.com/support/home" target="_blank" class="navbar_dropdown-item w-inline-block" tabindex="0">
+                  <a href="#" target="_blank" class="navbar_dropdown-item w-inline-block" tabindex="0">
 
                     <img src="https://assets-global.website-files.com/600fe6e1ff56080deca9f06e/602fba4ed0eb6d045b380709_nav-icon--Support-Center-Support-70x70.svg" loading="lazy" alt="Support Icon" class="navbar_dropdown-item-icon">
 
@@ -433,7 +433,7 @@
 
                   </a>
 
-                  <a href="https://status.linnworks.com/" target="_blank" class="navbar_dropdown-item w-inline-block" tabindex="0">
+                  <a href="#" target="_blank" class="navbar_dropdown-item w-inline-block" tabindex="0">
 
                     <img src="https://assets-global.website-files.com/600fe6e1ff56080deca9f06e/602fbac5e770b859d6c3e00b_nav-icon--System-Status-Support-70x70.svg" loading="lazy" alt="System status support icon." class="navbar_dropdown-item-icon">
 
@@ -457,7 +457,7 @@
 
                   </a>
 
-                  <a href="https://docs.linnworks.com/articles/#!documentation/documentation" target="_blank" class="navbar_dropdown-item w-inline-block" tabindex="0">
+                  <a href="#" target="_blank" class="navbar_dropdown-item w-inline-block" tabindex="0">
 
                     <img src="https://assets-global.website-files.com/600fe6e1ff56080deca9f06e/602fba90d9319265d9d78461_nav-icon--Documentation-Support-70x70.svg" loading="lazy" alt="Documentation support icon." class="navbar_dropdown-item-icon">
 
@@ -469,7 +469,7 @@
 
                   </a>
 
-                  <a href="https://help.linnworks.com/support/discussions/forums/7000001680" target="_blank" class="navbar_dropdown-item w-inline-block" tabindex="0">
+                  <a href="#" target="_blank" class="navbar_dropdown-item w-inline-block" tabindex="0">
 
                     <img src="https://assets-global.website-files.com/600fe6e1ff56080deca9f06e/602fbad501eb78047e3c6b68_nav-icon--Submit-Features-Support-70x70.svg" loading="lazy" alt="Submit features support icon." class="navbar_dropdown-item-icon">
 
@@ -503,7 +503,7 @@
 
                   </div>
 
-                  <a id="w-node-_94bbc67f-92ac-e99c-543b-d40bf74cec25-f74ceb2c" href="https://help.linnworks.com/support/discussions" target="_blank" class="navbar_dropdown-item w-inline-block" tabindex="0">
+                  <a id="#" target="_blank" class="navbar_dropdown-item w-inline-block" tabindex="0">
 
                     <img src="https://assets-global.website-files.com/600fe6e1ff56080deca9f06e/602fbaa724e919293ed020b1_nav-icon--Forum-Support-70x70.svg" loading="lazy" alt="Forum support icon." class="navbar_dropdown-item-icon">
 
@@ -924,7 +924,7 @@
         <img src="https://assets-global.website-files.com/600fe6e1ff56080deca9f06e/6038d555d49e8f5d8191c152_Order-Management--Email-updates.svg" loading="lazy" alt="Order management email updates icon." class="subscribe-feature-icon--inline">
       </div>
       <div class="w-embed w-iframe">
-        <iframe src="https://www2.linnworks.com/l/886293/2021-04-14/435k2" width="100%" height="290" type="text/html" frameborder="0" allowtransparency="true" style="border: 0"></iframe>
+        <iframe src="#" width="100%" height="290" type="text/html" frameborder="0" allowtransparency="true" style="border: 0"></iframe>
       </div>
     </div>
   </div>
